@@ -1,0 +1,14 @@
+# TexturePackChanger default config file
+# The texture packs linked here are not mine; I only linked to them here.
+
+# This is where the texture pack each player has chosen is stored
+Players:
+  jtjj222:
+    texture: Default
+  kulboy121:
+    texture: Default
+
+# This is where you can configure your texture packs
+Textures:
+  g1l2o3n4o5j6a7d8:
+    url: http://www.creeperrepo.net/direct/sphax/9d0a6d3eec18ad2384b9406549162f09/Sphax%20PureBDcraft%20%2016x%20MC17.zip

@@ -1,0 +1,59 @@
+name: PvPGamesManager
+version: 0.4
+description: PvP Games PL private plugin, that manages gameplay.
+author: Glonojad
+main: pl.glonojad.pvpgamesmanager.PvPGamesManager
+depend: [ProtocolLib, CrackShot]
+softdepend: [BarAPI, LanguageAPI]
+commands:
+  join:
+    description: Join the game.
+    aliases: [dolacz]
+    usage: Use /join, to enter the game!
+  kit:
+    description: Open the kit menu.
+    aliases: [zestaw]
+    usage: Use /kit, to open the kit menu!
+  leave:
+    description: Leave the game.
+    aliases: [wyjdz, opusc]
+    usage: Use /leave to quit the game and become a spectator.
+  rotation:
+    description: Lets you check the current rotation.
+    aliases: [rotacja]
+    usage: Use /rotation, to check the current rotation!
+  game:
+    description: Lets you manage the current game.
+    aliases: [gra]
+    usage: Use /game, to manage the current game!
+  teams:
+    description: Shows information about teams in this game.
+    aliases: [druzyny]
+    usage: Use /teams, to see information about teams in this game!
+  upgrades:
+    description: Shows a menu with all the possible weapons upgrades.
+    aliases: [ulepszenia]
+    usage: Use /upgrades, to see a menu with all the possible weapons upgrades!
+  stats:
+    description: Lets you see various stats.
+    aliases: [statystyki, staty]
+    usage: Use /stats, to see various stats!
+permissions:
+    chat.color:
+        description: Lets you use color codes in chat.
+        default: op
+    rotation.nextmap:
+        description: Lets you set the next map to play.
+        default: op
+    game.start:
+        description: Lets you force start the game.
+        default: op
+    game.end:
+        description: Lets you force end the game.
+        default: op
+    stats.view.self:
+        description: Lets you see your own stats.
+        default: op
+    stats.view.registeredplayerscount:
+        description: Lets you see how many players registered on the server.
+        default: op

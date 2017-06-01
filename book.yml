@@ -1,0 +1,108 @@
+#-------------------------------------------------------------------------------------------------------#
+#											BOOK CONFIG FILE.											#
+#										Use $ for the color code										#
+#-------------------------------------------------------------------------------------------------------#
+
+Author: '$4$lPVP $a$lGames $4$lP$f$lL'
+Title: '$a$lO co chodzi!?'
+
+Book:
+  PAGE1:
+    - '$6$lInstrukcja:'
+    - '$c       -------------- '
+    - '$8         PvPGames '
+    - '$8        Platforma '
+    - '$7Plugin by $a$lPVP Games PL.'
+    - ''
+    - ''
+    - '$8Wpisz /join lub kliknij na znak aby dolaczyc!'
+    - ''
+    - ''
+    - '$cInstrukcja     Nastepna Strona -->'
+  KTK:
+    - '$cZabij Krola :'
+    - ''
+    - ''
+    - '$7Zabij wrogiego krola aby zdobyc punkt dla druzyny.'
+    - ''
+    - '$cJak znalezc krola?'
+    - '$7Uzyj Kompasu dolaczonego do zestawu.'
+    - '$cUzycie:'
+    - '$6Kliknij raz = Wrogi Krol'
+    - ''  
+    - '$6Kliknij drugi raz = Twoj Krol.'
+  CTF:
+    - '$cPrzejmij Flage :'
+    - '' 
+    - ''
+    - '$7Zabierz flage wroga i odnies ja do swojej bazy.'
+  TDM:
+    - '$c2 Druzynowy DeathMatch :'
+    - '' 
+    - ''  
+    - '$7Zabij jak najwiecej wrogow dla swojej druzyny. Dwie Druzyny'
+  TDM4:
+    - '$c4 Druzynowy DeathMatch:'
+    - '' 
+    - ''  
+    - '$7Zabij jak najwiecej wrogow dla swojej druzyny. Cztery Druzyny'
+  DM:
+    - '$cDeathMatch :'
+    - ''
+    - ''
+    - '$7Zabij jak najwiecej wrogow. Wszyscy-na-Wszystkich'
+  KC:
+    - '$cZabicie Potwierdzone :'
+    - ''
+    - ''
+    - '$7Po zabiciu wroga zniszcz blok welny ktory z niego wypadl. Niszcz swoje bloki welny by uniemozliwic zdobycie punkty wrogom'
+  DOM:
+    - '$cDominacja :'
+    - ''
+    - ''
+    - '$7Zajmij punkty A/B/C dla swojej druzyny'
+  RUN:
+    - '$cWyscig :'
+    - ''
+    - ''
+    - "$7Badz pierwszym ktory wcisnie guzik."
+  S$D:
+    - '$cZnajdz i Zniszcz :'
+    - ''
+    - ''
+    - '$7Bron lub niszcz przekazniki (A,B)'
+  DTC:
+    - '$cZniszcz Rdzen :'
+    - ''
+    - '' 
+    - '$7Zniszcz rdzen wroga, nie pozwalajac by wrog zniszczyl twoj.'
+  HORDE:
+    - '$cInwazja :'
+    - ''
+    - ''
+    - '$7Zabij jak najwiecej potworow. Wszyscy w jednej druzynie.'
+  SPLEEF:
+    - '$cSpleef :'
+    - ''
+    - ''  
+    - "$7Zniszcz ziemie pod nogami wroga tak by wpypadl z mapy!"
+  KIT:
+    - '$cZestawy'
+    - ''
+    - ''
+    - '$7Po kazdej smierci mozesz zmienic zestaw. Niektore zestawy sa platne, a niektore odblokowojesz za zabicia w grze.'
+  TIME:
+    - '$cCzas'
+    - ''
+    - ''
+    - '$7Kazda gra trwa maksymalnie 30min. Jesli nie zdazysz ukonczyc rozgrywki wygrywa druzyna z najwieksza iloscia punktow.'
+  INFO:
+    - '$cCo sie dzieje po grze?'
+    - ''
+    - '' 
+    - '$7Serwer restartuje i wybiera mape losowo lub na podstawie glosowania.'
+  ASD:
+    - '$cPomoc w grze :'
+    - ''
+    - ''
+    - '$6Zawsze mozesz wpisac /help aby uzyskac pomoc.'

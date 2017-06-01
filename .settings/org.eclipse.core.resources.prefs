@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/pl/glonojad/pvpgamesmanager/commands/TeamsCommand.java=UTF-8
+encoding//src/pl/glonojad/pvpgamesmanager/game/GameManager.java=UTF-8
+encoding//src/pl/glonojad/pvpgamesmanager/game/objective/Bomb.java=UTF-8
+encoding//src/pl/glonojad/pvpgamesmanager/game/objective/CapturePoint.java=UTF-8
+encoding//src/pl/glonojad/pvpgamesmanager/game/objective/Collapse/Collapse.java=UTF-8
+encoding//src/pl/glonojad/pvpgamesmanager/game/objective/Core.java=UTF-8
+encoding//src/pl/glonojad/pvpgamesmanager/game/objective/Flag.java=UTF-8
+encoding//src/pl/glonojad/pvpgamesmanager/game/objective/ScoreBox.java=UTF-8
+encoding//src/pl/glonojad/pvpgamesmanager/threads/EndCountdown.java=UTF-8
+encoding//src/pl/glonojad/pvpgamesmanager/threads/sidebar/SidebarManager.java=UTF-8
+encoding//src/pl/glonojad/pvpgamesmanager/util/ChatManager.java=UTF-8

@@ -1,0 +1,17 @@
+#Guns upgrades config file.
+#Example gun:
+#AK_47:
+#  AK-47LvL1:
+#    cost:
+#    requiredLevel:
+#  AK-47LvL2:
+#    cost:
+#    requiredLevel:
+Guns:
+  AK_47:
+    AK-47LvL1:
+      requiredLevel: 0
+      displayName:
+    AK-47LvL2:
+      requiredLevel: 20
+      displayName:

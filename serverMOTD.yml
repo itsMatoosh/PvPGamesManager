@@ -1,0 +1,13 @@
+#-------------------------------------------------------------------------------------------------------#
+#										SERVERMOTD CONFIG FILE.											#
+# Arguments :
+# mapname, mapversion, mapauthor, endgamesec, pregamesec
+# Use $ as color code or \n for a new line
+
+useMOTD: true
+
+#-----------
+MOTD:
+  pregame: "$aGra zaczyna sie za $6pregamesec $asekund! $a$l[$c$lPvP $3$lGames $f$lP$4$lL$a$l]$r\n$9Mapa: $6mapname $9v$6mapversion $9by $6mapauthor"
+  inGame: "$a$lGra trwa! $a$l[$c$lPvP $3$lGames $f$lP$4$lL$a$l]$r\n$9Mapa: $6mapname $9v$6mapversion $9by $6mapauthor"
+  endgame: "$aGra sie skonczyla! $a$l[$c$lPvP $3$lGames $f$lP$4$lL$a$l]\n$eNowa gra za $6endgamesec $esekund! "
